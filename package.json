@@ -54,7 +54,8 @@
     "webpack-dev-server": "^4.9.1",
     "webpack-watched-glob-entries-plugin": "^2.2.4",
     "webpackbar": "^5.0.2",
-    "zip-webpack-plugin": "^4.0.1"
+    "zip-webpack-plugin": "^4.0.1",
+    "chalk": "^5.0.0",
   },
   "devDependencies": {
     "@tsconfig/node12": "^1.0.9",
